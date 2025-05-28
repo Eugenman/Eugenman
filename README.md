@@ -23,12 +23,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-I'm a Senior Frontend Developer with over 7 years of experience building high-performance web applications and scalable design systems. I specialize in React, TypeScript, and modular architecture (SPA & micro-frontends). Passionate about clean code, testing culture, and delivering user-focused solutions that create measurable business impact.
-
----
-
 ### 🛠️ Skills & Technologies
 
 **Languages & Frameworks**
